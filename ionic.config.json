@@ -1,5 +1,7 @@
 {
   "name": "UnregelVerben",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
